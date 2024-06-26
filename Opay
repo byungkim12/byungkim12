@@ -1,0 +1,35 @@
+- 👋 Hi, I’m @byungkim12
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+byungkim12/byungkim12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+DOCTYPE html>
+
+<html>
+
+    <body>
+
+       <h4>       LOGIN</h4>       <label for="domTextElement">email or phone number: </label>
+
+        <input type="text" id="username" >
+
+<br><br>        <label for="domTextElement1">Password: </label>
+
+       <input type="password" id="password" >
+
+<br><br>       
+
+<button type="button"  onclick="getValueInput()">Vote!!    </button>
+
+         <p id="valueInput"></p>
+
+    </body>
+
+</html>
